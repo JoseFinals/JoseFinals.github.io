@@ -1,0 +1,12 @@
+body{
+	background: #70ff80;
+}
+
+#pic {
+	width:350px;
+	height: auto;
+	padding: 5px;
+	margin-left: 15%;
+	margin-right: auto;
+	vertical-align: right;
+}
